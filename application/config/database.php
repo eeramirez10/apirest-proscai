@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'tuvansa.dyndns.org',
 	'username' => 'consultas',
 	'password' => 'consultas',
 	'database' => 'tuvansa',
